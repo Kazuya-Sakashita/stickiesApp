@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # stickiesApp
+
+参考HP https://qiita.com/hanaitama-kaz/items/5b68b9c665f75020bcd4
